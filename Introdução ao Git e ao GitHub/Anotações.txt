@@ -1,0 +1,4 @@
+Anotações Úteis:
+-O Git Bash é um terminal extendido para o uso do Git.
+
+-Sintaxe básica do Markdows https://www.markdownguide.org/basic-syntax/
