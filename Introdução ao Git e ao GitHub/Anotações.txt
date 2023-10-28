@@ -2,3 +2,12 @@ Anotações Úteis:
 -O Git Bash é um terminal extendido para o uso do Git.
 
 -Sintaxe básica do Markdows https://www.markdownguide.org/basic-syntax/
+
+-git commit -m "texto qualquer" 
+cria um commit
+
+-git status
+veja o status e alterações feitas
+
+-git push origin main
+salva as alterações feitas localmente no repositório em nuvem
